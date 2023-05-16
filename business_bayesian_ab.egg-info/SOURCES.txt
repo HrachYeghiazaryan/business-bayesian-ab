@@ -1,0 +1,7 @@
+README.md
+setup.py
+business_bayesian_ab.egg-info/PKG-INFO
+business_bayesian_ab.egg-info/SOURCES.txt
+business_bayesian_ab.egg-info/dependency_links.txt
+business_bayesian_ab.egg-info/requires.txt
+business_bayesian_ab.egg-info/top_level.txt
